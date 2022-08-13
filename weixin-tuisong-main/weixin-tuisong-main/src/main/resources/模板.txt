@@ -1,0 +1,24 @@
+早上好吖~ 小伟伟~
+今天又是元气满满的一天喔~
+{{riqi.DATA}}
+{{beizhu.DATA}}
+天气：{{tianqi.DATA}}
+最低温度：{{low.DATA}} 度
+最高温度：{{high.DATA}} 度
+今天是我们恋爱的第 {{lianai.DATA}} 天
+距离你的生日还有 {{shengri.DATA}} 天
+
+{{caihongpi.DATA}}
+{{jinju.DATA}}
+
+
+叮~ 到点该下班啦~ 小伟伟~
+工作一天辛苦了喔~
+下班注意安全，别玩手机！！！
+明日日期：{{riqi.DATA}}
+{{beizhu.DATA}}
+明日天气：{{tianqi.DATA}}
+明日最低温度：{{low.DATA}} 度
+明日最高温度：{{high.DATA}} 度
+{{caihongpi.DATA}}
+{{jinju.DATA}}
